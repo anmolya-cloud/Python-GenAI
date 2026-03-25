@@ -1,0 +1,5 @@
+## Features
+- FastAPI backend
+- /chat endpoint
+- LLM integration (Gemini)
+- Environment-based API key handling
